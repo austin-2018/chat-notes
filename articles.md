@@ -14,3 +14,6 @@
 ## Watson Chatbot
 #### IBM How to build a Chatbot
 #### https://www.ibm.com/watson/how-to-build-a-chatbot/
+
+#### Watson Retail Example With Python
+#### https://www.ibm.com/cloud/garage/tutorials/tutorial_cognitive_conversation/
