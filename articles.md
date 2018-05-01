@@ -17,3 +17,9 @@
 
 #### Watson Retail Example With Python
 #### https://www.ibm.com/cloud/garage/tutorials/tutorial_cognitive_conversation/
+
+#### Build a chatbot in 6 minutes with IBM Watson Conversation (short)
+#### https://www.youtube.com/watch?v=MTCc4d-RXP0
+
+#### Watson Assistant
+#### https://www.ibm.com/watson/services/conversation/
