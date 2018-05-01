@@ -4,6 +4,9 @@
 ##### Login
 ##### https://console.dialogflow.com/api-client/#/login
 
+#### How to make a Chatbot with Dialogflow - API.ai
+#### https://www.youtube.com/watch?v=gWNUg_v25dw
+
 #### Chatbot for IOS with Dialog Flow API
 #### https://www.appcoda.com/chatbot-dialogflow-ios/
 
@@ -23,3 +26,6 @@
 
 #### Watson Assistant
 #### https://www.ibm.com/watson/services/conversation/
+
+#### BUILD YOUR OWN CHATBOT IN A SNAP, USING THE WATSON CONVERSATION API
+#### https://www.youtube.com/watch?v=NUOIIUMJh2M
